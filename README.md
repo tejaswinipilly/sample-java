@@ -1,1 +1,2 @@
-# sample-java
+# java-project
+# java-project
